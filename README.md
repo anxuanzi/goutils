@@ -8,7 +8,7 @@ Package name prefix: `fta`
 
 #### Additional Info
 
-Everything collected from internet (github), thanks to those open source contributor.
+Some code collected from internet (github), thanks to those open source contributor.
 
 #### Special Thanks
 
